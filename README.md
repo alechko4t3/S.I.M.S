@@ -4,7 +4,7 @@ This SQL database models a comprehensive inventory and operations management sys
 
 * This repository includes only queries that are related to the full DB.
 
-** Please note: The full database is not posted in this repository in order to prevent it from being copied.
+* Please note: The full database is not posted in this repository in order to prevent it from being copied.
 However, the full SQL database can be sent via mail. (contact me at: alexeyyermolov123@gmail.com)
 
 S.I.M.S DB holds the following functions:
