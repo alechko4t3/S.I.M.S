@@ -2,6 +2,8 @@
 SIMS - Smart Inventory Management System
 This SQL database models a comprehensive inventory and operations management system for a computer hardware company. It is designed to handle product details, warehouse inventory, supplier orders, product bundling, and user interactions within the system.
 
+* This repository includes only queries that are related to the full DB.
+
 ** Please note: The full database is not posted in this repository in order to prevent it from being copied.
 However, the full SQL database can be sent via mail. (contact me at: alexeyyermolov123@gmail.com)
 
